@@ -32,3 +32,13 @@ Install django
 ```
 pip install django
 ```
+
+Start web project
+```
+django-admin startproject web .
+```
+
+Run server
+```
+python3 manage.py runserver
+```
